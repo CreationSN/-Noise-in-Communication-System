@@ -32,7 +32,7 @@ To simulate adding Gaussian White Noise to a signal and removing it using a Butt
 ## Evaluation
 I observed that if the `cutoff_frequency` is too low (e.g., 2Hz), the signal disappears. If it is too high (e.g., 100Hz), the noise remains. The best results occur when the cutoff is slightly higher than the signal frequency.
 
-##Impact of SNR on Communication Performance
+#Impact of SNR on Communication Performance
 
 ##Objective
 To investigate how varying the Signal-to-Noise Ratio (SNR) affects the ability of a receiver to correctly demodulate an Amplitude Shift Keying (ASK) signal.
